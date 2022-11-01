@@ -37,7 +37,7 @@
 ## 🛠️ Abrir e rodar o projeto
 ![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
 
-**Você pode abrir o projeto atraves do link: https://luke-musicplayer.netlify.app/**
+**Você pode abrir o projeto atraves do link: **
 
 ## Tecnologias utilizadas
 
